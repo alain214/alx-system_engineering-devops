@@ -1,1 +1,1 @@
- Write a script that will play the StarWars IV episode in the terminal.
+ Create a script that creates a directory called my_dir with permissions 751 in the working directory.
