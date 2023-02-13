@@ -1,1 +1,3 @@
- Create a script that removes all letters c and C from input.
+Write a script th
+
+at reverse its input.
